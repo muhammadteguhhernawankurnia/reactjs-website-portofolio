@@ -20,7 +20,7 @@ function Navbar() {
     <nav>
       <div className='wrapper'>
         <div className='logo'>
-          <Link to='/'>TEGUH HERNAWAN</Link>
+          <Link to='/'>HOME</Link>
         </div>
         <button onClick={tampilMenu}>
           {statusTampil == '' ? <FaBars /> : <IoIosClose />}

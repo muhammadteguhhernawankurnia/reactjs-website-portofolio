@@ -1,45 +1,45 @@
-import portfolio1 from '../assets/portfolio1.png';
-import portfolio2 from '../assets/portfolio2.png';
-import portfolio3 from '../assets/portfolio3.png';
-import portfolio4 from '../assets/portfolio4.png';
-import portfolio5 from '../assets/portfolio5.png';
-import portfolio6 from '../assets/portfolio6.png';
+import coffeeshop from '../assets/coffeeshop.png';
+import hiringapps from '../assets/hiringapps.png';
+import getpay from '../assets/getpay.png';
+import tickitz from '../assets/tickitz.png';
+import sysprod from '../assets/sysprod.png';
+import undangandigitaldearayvan from '../assets/undangandigitaldearayvan.png';
 
 export const portfolioList = [
   {
     id: '1',
-    title: 'Website Portfolio #1',
-    image: portfolio1,
-    skill: 'reactjs, html, css',
+    title: 'Coffee Shop',
+    image: coffeeshop,
+    skill: 'reactjs, boostrap, nodejs, postgresql',
   },
   {
     id: '2',
-    title: 'Website Portfolio #2',
-    image: portfolio2,
-    skill: 'reactjs, html, css',
+    title: 'Hiring Apps',
+    image: hiringapps,
+    skill: 'reactjs, tailwind css, nodejs, postgresql',
   },
   {
     id: '3',
-    title: 'Website Portfolio #3',
-    image: portfolio3,
-    skill: 'reactjs, html, css',
+    title: 'GetPay',
+    image: getpay,
+    skill: 'reactjs, tailwind css, nodejs, postgresql',
   },
   {
     id: '4',
-    title: 'Website Portfolio #4',
-    image: portfolio4,
-    skill: 'reactjs, html, css',
+    title: 'Tickitz',
+    image: tickitz,
+    skill: 'reactjs, tailwind css, nodejs, postgresql',
   },
   {
     id: '5',
-    title: 'Website Portfolio #5',
-    image: portfolio5,
-    skill: 'reactjs, html, css',
+    title: 'Sysprod',
+    image: sysprod,
+    skill: 'php, mysql',
   },
   {
     id: '6',
-    title: 'Website Portfolio #6',
-    image: portfolio6,
-    skill: 'reactjs, html, css',
+    title: 'Undangan Digital Dea & Rayvan',
+    image: undangandigitaldearayvan,
+    skill: 'html, css, js',
   },
 ];
