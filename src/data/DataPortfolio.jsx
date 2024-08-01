@@ -10,7 +10,7 @@ export const portfolioList = [
     id: '1',
     title: 'Coffee Shop',
     image: coffeeshop,
-    skill: 'reactjs, boostrap, nodejs, postgresql',
+    skill: 'reactjs, bootstrap, nodejs, postgresql',
   },
   {
     id: '2',

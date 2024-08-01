@@ -27,7 +27,7 @@ function About() {
           git, GitHub, and Trello for projects. Using MySQL and PostgreSQL for
           the database.
         </p>
-        <h4>Programming Languge & Tools</h4>
+        <h4>Programming Language & Tools</h4>
         <div className='skills'>
           <FaHtml5 />
           <FaCss3Alt />
